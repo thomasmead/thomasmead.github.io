@@ -36,11 +36,11 @@ mastodon_link                             :
 # Feature List                            Edit, add or remove features to be presented.
 features                                  :
 
-  - title                                 : Track Sun Shadow
-    description                           : For any location see where shadows fall, direction and length.
+  - title                                 : Track Sun and Moon Shadow
+    description                           : Visualize direction and length shadows, for any location, date and time.  Zooom in for localized views.
     fontawesome_icon_name                 : magic
     
-  - title                                 : Examine for user selected dates and times
+  - title                                 : Select dates and times
     description                           : Use sliders to select date and time and follow changes in shadows.  Zoom in on map for detailed view.
     fontawesome_icon_name                 : mobile
 
@@ -49,15 +49,15 @@ features                                  :
     fontawesome_icon_name                 : play-circle
 
   - title                                 : Save favorite locations
-    description                           : Save selected location to list of favorites for quick look later
+    description                           : Save selected location to list of favorites for quick retrieval later.
     fontawesome_icon_name                 : sync
 
   - title                                 : See local sky and temperature conditions
-    description                           : Use Apple Weather to see local conditions for any location.
+    description                           : Separate tab uses Apple Weather service to show local conditions for any location.
     fontawesome_icon_name                 : adjust
   
   - title                                 : Details of solar and lunar position
-    description                           : Detail tab shows elevation and azimuth for selected date and time.
+    description                           : Detail tab shows elevation, azimuth and other details for sun and moon for use selected date and time.
     fontawesome_icon_name                 : star
 
   - title                                 : # Smart App Banner
