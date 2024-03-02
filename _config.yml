@@ -42,7 +42,7 @@ features                                  :
     
   - title                                 : Select dates and times
     description                           : Use sliders to select date and time and follow changes in shadows.  Zoom in on map for detailed view.
-    fontawesome_icon_name                 : sliders
+    fontawesome_icon_name                 : fa-sliders
 
   - title                                 : Choose location
     description                           : Use either a location search function or tap on map.  Update to current location and time with a button tap
@@ -54,7 +54,7 @@ features                                  :
 
   - title                                 : See local sky and temperature conditions
     description                           : Separate tab uses Apple Weather service to show local conditions for any location.
-    fontawesome_icon_name                 : thermometer-3
+    fontawesome_icon_name                 : fa-thermometer-empty
   
   - title                                 : Details of solar and lunar position
     description                           : Detail tab shows elevation, azimuth and other details for sun and moon for user selected date and time.
