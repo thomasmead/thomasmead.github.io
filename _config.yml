@@ -13,7 +13,7 @@ presskit_download_link                    : assets/Bio for github.pdf           
 app_icon                                  : assets/icon/helmut-1024x1024.png          # Automatically populates if not set and if iOS app ID is set.  Otherwise enter path to icon file manually.
 app_name                                  : SolarLunar-Data                                          # Automatically populates if not set and if iOS app ID is set.  Otherwise enter manually.
 app_price                                 :                                           # Automatically populates if not set and if iOS app ID is set.  Otherwise enter manually.
-app_description                           : Where are Sun and Moon Shadows?
+app_description                           : Where are Sun and Moon Shadows?  Use to orient new house or campsite, solar panels, garden or pool 
 
 enable_smart_app_banner                   : true                                      # Set to true to show a smart app banner at top of page on mobile devices.
 
