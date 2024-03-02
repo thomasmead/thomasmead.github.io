@@ -42,23 +42,23 @@ features                                  :
     
   - title                                 : Select dates and times
     description                           : Use sliders to select date and time and follow changes in shadows.  Zoom in on map for detailed view.
-    fontawesome_icon_name                 : mobile
+    fontawesome_icon_name                 : sliders
 
   - title                                 : Choose location
     description                           : Use either a location search function or tap on map.  Update to current location and time with a button tap
-    fontawesome_icon_name                 : play-circle
+    fontawesome_icon_name                 : map
 
   - title                                 : Save favorite locations
     description                           : Save selected location to list of favorites for quick retrieval later.
-    fontawesome_icon_name                 : sync
+    fontawesome_icon_name                 : tag
 
   - title                                 : See local sky and temperature conditions
     description                           : Separate tab uses Apple Weather service to show local conditions for any location.
-    fontawesome_icon_name                 : adjust
+    fontawesome_icon_name                 : thermometer-3
   
   - title                                 : Details of solar and lunar position
-    description                           : Detail tab shows elevation, azimuth and other details for sun and moon for use selected date and time.
-    fontawesome_icon_name                 : star
+    description                           : Detail tab shows elevation, azimuth and other details for sun and moon for user selected date and time.
+    fontawesome_icon_name                 : table
 
   - title                                 : # Smart App Banner
     description                           : # Display a smart app banner on iOS devices.
