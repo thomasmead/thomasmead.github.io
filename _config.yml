@@ -37,7 +37,7 @@ mastodon_link                             :
 features                                  :
 
   - title                                 : Track Sun and Moon Shadow
-    description                           : Visualize direction and length shadows, for any location, date and time.  Zooom in for localized views.
+    description                           : Visualize direction and length shadows, for any location, date and time.  Choose satellite for views with buildings and other features.
     fontawesome_icon_name                 : magic
     
   - title                                 : Select dates and times
