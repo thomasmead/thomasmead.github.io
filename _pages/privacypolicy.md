@@ -13,7 +13,7 @@ March 3, 2024
 <br>
 
 ## 1.0 Information We Collect
-This app collects no user data.
+This app collects only user data related to location only after user has give access on device.
 
 ### 1.1 Information from third parties
 Apple Weather and Apple Map services are utilized.
